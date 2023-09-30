@@ -23,7 +23,7 @@ Pathfinding is a fundamental problem in robotics and artificial intelligence. Th
  The trained agent has been rigorously tested in various environments to assess its efficiency in navigating and avoiding obstacles, especially in complex.  
  ## Installation
  clone the repository  
- git clone https://github.com/your-username/pathfinding-rl.git  
+(https://github.com/amandeep-yadav/path_planning.git)  
  1. Run the main_pathplanning file  
 ## Algorithms
 ### Q-learning
